@@ -1,6 +1,6 @@
 # Challenge-1-repo
 
-editing and fixing website to be more accessible and cleaned up coding
+editing and fixing website to be more accessible and cleaned up coding to be read easier
 
 ## Built with 
 * HTML
